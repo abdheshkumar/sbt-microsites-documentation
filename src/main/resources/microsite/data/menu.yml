@@ -1,0 +1,43 @@
+options:
+  - title: Account
+    url: account/
+    menu_section: account
+
+    nested_options:
+      - title: Api
+        url: account/api.html
+        menu_section: account
+
+      - title: App
+        url: account/app.html
+        menu_section: account
+
+      - title: Server
+        url: account/server.html
+        menu_section: account
+
+      - title: Dataprocessor
+        url: account/dataprocessor.html
+        menu_section: account
+
+
+  - title: User
+    url: user/
+    menu_section: user
+
+    nested_options:
+      - title: Api
+        url: user/api.html
+        menu_section: user
+
+      - title: App
+        url: user/app.html
+        menu_section: user
+
+      - title: Server
+        url: user/server.html
+        menu_section: user
+
+      - title: Dataprocessor
+        url: user/dataprocessor.html
+        menu_section: user
