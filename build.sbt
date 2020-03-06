@@ -22,5 +22,5 @@ lazy val root = project
     micrositeDescription := "Integrating sbt-microsites",
     micrositeAuthor := "abdhesh",
     micrositeGithubOwner := "abdhesh",
-    micrositeGithubRepo := "sbt_websites"
+    micrositeGithubRepo := "sbt-microsites-documentation"
   )
